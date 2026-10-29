@@ -1,0 +1,100 @@
+# Self-test 2
+# Date: 2026-10-15 | Model: gpt-4.1-2025-04-14 | Respondent: the author, answering as a test persona (not real data)
+
+INTERVIEWER: Hi, and thank you for taking part! In this short conversation, I'd like to learn how you handle money you don't need right away. It takes about 10 to 15 minutes. There are no right or wrong answers, and you can skip any question. Please don't share your name or other personal details. Are you ready to start?
+
+RESPONDENT: yes
+
+INTERVIEWER: When you have money that you don't need right away, what do you usually do with it?
+
+RESPONDENT: keep it in my bank account
+
+INTERVIEWER: What made you start doing that?
+
+RESPONDENT: don't want to risk my money
+
+INTERVIEWER: Did anyone else help you decide where to keep your money?
+
+RESPONDENT: no
+
+INTERVIEWER: Now I'd like to talk about what your money earns. What interest rate do you think you currently get on the money in your bank account? A best guess is fine.
+
+RESPONDENT: 1%
+
+INTERVIEWER: How sure are you about that: very sure, somewhat sure, or not sure at all?
+
+RESPONDENT: somewhat sure
+
+INTERVIEWER: Have you ever looked at other options for where to keep your money?
+
+RESPONDENT: yes
+
+INTERVIEWER: What options did you look at?
+
+RESPONDENT: ETFS
+
+INTERVIEWER: Do you think another bank account, just as safe and just as easy to access, would pay you more interest than yours?
+
+RESPONDENT: no
+
+INTERVIEWER: If there were such an account, would you consider moving your money there?
+
+RESPONDENT: yes
+
+INTERVIEWER: What are your reasons for that?
+
+RESPONDENT: as safe but more I can earn
+
+INTERVIEWER: Where do you usually get information or tips about saving or investing?
+
+RESPONDENT: don't have any
+
+INTERVIEWER: In the last few months, what, if anything, have you heard people say is a good way to make money?
+
+RESPONDENT: yes
+
+INTERVIEWER: What do you think about it?
+
+RESPONDENT: social media
+
+INTERVIEWER: How often do you talk with friends or family about saving or investing: never, rarely, sometimes, or often?
+
+RESPONDENT: never
+
+INTERVIEWER: Have you seen any ads from banks offering interest on savings?
+
+RESPONDENT: yes
+
+INTERVIEWER: Have you ever opened an account because of an ad like this?
+
+RESPONDENT: no
+
+INTERVIEWER: What are your reasons for that?
+
+RESPONDENT: don't care
+
+INTERVIEWER: To finish, I have a few short questions about you. You can skip any of them. Are you currently a student, or are you working?
+
+RESPONDENT: student
+
+INTERVIEWER: What do you study?
+
+RESPONDENT: Economics
+
+INTERVIEWER: Which of the following do you currently have, if any: a regular savings account such as Tagesgeld, a fixed-term deposit such as Festgeld, ETFs or investment funds, individual stocks, or cryptocurrencies? Is there anything else?
+
+RESPONDENT: just regular savings account
+
+INTERVIEWER: On a scale from 1 to 10, where 1 means 'not familiar at all' and 10 means 'very familiar', how familiar are you with topics like saving, interest rates and investing?
+
+RESPONDENT: 22
+
+INTERVIEWER: Thank you! Here’s a summary of your answers:
+
+You usually keep money you don’t need right away in your bank account because you don’t want to risk your money, and no one helped you decide this. You think you currently get about 1% interest on your bank account and are somewhat sure about this. You’ve looked at other options like ETFs. You don’t think another bank account would pay you more interest than yours, but if one did and it was just as safe and easy to access, you would consider moving your money there so you could earn more.
+
+You don’t usually get tips or information about saving or investing, and you haven’t heard much from people around you, though you have heard in general that social media is considered a way to make money in recent months. You never talk with friends or family about saving or investing. You have seen ads from banks offering interest on savings, but you have not opened an account because of these ads as you “don’t care.”
+
+You are a student studying Economics. You currently only have a regular savings account and rate your familiarity with saving, interest rates, and investing as 22 on a scale of 1 to 10.
+
+How well does this summary describe your answers? Please answer with a number from 1 (poorly) to 4 (very well), and feel free to add anything that is missing or wrong.

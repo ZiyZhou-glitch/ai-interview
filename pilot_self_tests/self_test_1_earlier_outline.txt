@@ -1,0 +1,104 @@
+# Self-test 1 (run with an earlier version of the outline; issues found here led to revisions)
+# Date: 2026-10-15 | Model: gpt-4.1-2025-04-14 | Respondent: the author, answering as a test persona (not real data)
+
+INTERVIEWER: Hi, and thank you for taking part! In this short conversation, I'd like to learn how you handle money you don't need right away. It takes about 10 to 15 minutes. There are no right or wrong answers, and you can skip any question. Please don't share your name or other personal details. Are you ready to start?
+
+RESPONDENT: yes
+
+INTERVIEWER: When you have money that you don't need right away, what do you usually do with it?
+
+RESPONDENT: I invest some ETFs and Stocks
+
+INTERVIEWER: How did you start doing it this way?
+
+RESPONDENT: skip
+
+INTERVIEWER: Did anyone else help you decide where to keep your money?
+
+RESPONDENT: Yes, a friend who has more experience gives me advices
+
+INTERVIEWER: Now I'd like to talk about what your money earns. What interest rate do you think you currently get on the money in your bank account? A best guess is fine.
+
+RESPONDENT: 1.5%
+
+INTERVIEWER: How sure are you about that: very sure, somewhat sure, or not sure at all?
+
+RESPONDENT: somewhat sure
+
+INTERVIEWER: Have you ever looked at other options for where to keep your money?
+
+RESPONDENT: Yes maybe invest
+
+INTERVIEWER: What options did you look at?
+
+RESPONDENT: Stocks ETFs
+
+INTERVIEWER: Do you think another bank account, just as safe and just as easy to access, would pay you more interest than yours?
+
+RESPONDENT: Yes
+
+INTERVIEWER: Would you consider moving your money there?
+
+RESPONDENT: No I think it should be some new small banks with higher potential risks, so they will offer more
+
+INTERVIEWER: What are your reasons for that?
+
+RESPONDENT: skip
+
+INTERVIEWER: Where do you usually get information or tips about saving or investing?
+
+RESPONDENT: social Medias and freinds
+
+INTERVIEWER: In the last few months, have you heard about anything that people say is a good way to make money?
+
+RESPONDENT: yes
+
+INTERVIEWER: Where did you hear about it, and what do you think about it?
+
+RESPONDENT: a freind told me that and some videos on the internet
+
+INTERVIEWER: How often do you talk with friends or family about saving or investing: never, rarely, sometimes, or often?
+
+RESPONDENT: sometimes
+
+INTERVIEWER: On a scale from 1 to 10, where 1 means 'not at all' and 10 means 'very much', how much do these conversations influence what you do with your money?
+
+RESPONDENT: 8
+
+INTERVIEWER: Have you seen any ads from banks offering interest on savings?
+
+RESPONDENT: yes
+
+INTERVIEWER: Have you ever opened an account because of an ad like this?
+
+RESPONDENT: no
+
+INTERVIEWER: What are your reasons for that?
+
+RESPONDENT: just don't care
+
+INTERVIEWER: To finish, I have a few short questions about you. You can skip any of them. Are you currently a student, or are you working?
+
+RESPONDENT: student
+
+INTERVIEWER: What do you study?
+
+RESPONDENT: Economics
+
+INTERVIEWER: Which of the following do you currently have, if any: a regular savings account such as Tagesgeld, a fixed-term deposit such as Festgeld, ETFs or investment funds, individual stocks, or cryptocurrencies? Is there anything else?
+
+RESPONDENT: no cryptocurrencies
+
+INTERVIEWER: On a scale from 1 to 10, where 1 means 'not familiar at all' and 10 means 'very familiar', how familiar are you with topics like saving, interest rates and investing?
+
+RESPONDENT: 8
+
+INTERVIEWER: Here is a summary of the answers you gave in this interview:
+
+You said that when you have money you don’t need right away, you usually invest in ETFs and stocks. You mentioned that a friend with more experience gives you advice about where to keep your money. When asked about the interest rate you get on your bank account, you guessed around 1.5% and said you are somewhat sure about that. You have also looked into options like stocks and ETFs as other places to keep your money. When asked if another bank account could offer more interest, you said yes, but explained that you wouldn’t move your money because you think these banks might be smaller and riskier.
+
+You usually get information about saving or investing from social media and friends. In the past few months, you have heard about ways to make money, including advice from friends and videos online. You talk with friends or family about saving and investing sometimes, and you said these conversations influence what you do with your money at about an 8 out of 10. You have seen ads from banks offering interest on savings but have never opened an account because of such ads, saying you just don’t care about them.
+
+You are a student studying Economics. Among products like savings accounts, fixed-term deposits, ETFs, investment funds, individual stocks, or cryptocurrencies, you said you have no cryptocurrencies. Finally, you rated your familiarity with topics like saving, interest rates, and investing as an 8 out of 10.
+
+How well does this summary describe your answers? Please answer with a number from 1 (poorly) to 4 (very well), and feel free to add anything that is missing or wrong.
