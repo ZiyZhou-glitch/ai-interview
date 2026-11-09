@@ -1,0 +1,154 @@
+Interviewer: Hi, and thank you for taking part! In this short conversation, I'd like to learn how you handle money you don't need right away. It takes about 10 to 15 minutes. There are no right or wrong answers, and you can skip any question. Please don't share your name or other personal details. Are you ready to start?
+
+Respondent: 1
+
+Interviewer: Just to be sure, are you ready to start? Please reply with "yes" or "no".
+
+Respondent: 1
+
+Interviewer: The interview will start as soon as you reply "yes".
+
+Respondent: no
+
+Interviewer: Take your time, and let me know by replying "yes" whenever you want to start.
+
+Respondent: yeah
+
+Interviewer: When you have money that you don't need right away, what do you usually do with it?
+
+Respondent: 1
+
+Interviewer: I didn't understand your answer. When you have money that you don't need right away, what do you usually do with it?
+
+Respondent: 1
+
+Interviewer: If you had some money you didn't need for a few months, what would you do with it?
+
+Respondent: go back to the last question 
+
+Interviewer: When you have money that you don't need right away, what do you usually do with it?
+
+Respondent: not much, a bit stays in my account
+
+Interviewer: What are your reasons for keeping it there rather than doing something else with it?
+
+Respondent: go back
+
+Interviewer: Could you tell me more about what you do when you have money you don't need right away? For example, what happens to that money?
+
+Respondent: I never have money left over
+
+Interviewer: If you had some money you didn't need for a few months, what would you do with it?
+
+Respondent: Lets go to part2
+
+Interviewer: Now I'd like to talk about what your money earns. What interest rate do you think you currently get on the money in your bank account? A best guess is fine.
+
+Respondent: 1
+
+Interviewer: How sure are you about that: very sure, somewhat sure, or not sure at all?
+
+Respondent: 1
+
+Interviewer: How sure are you about that: very sure, somewhat sure, or not sure at all?
+
+Respondent: 1
+
+Interviewer: How sure are you about that: very sure, somewhat sure, or not sure at all?
+
+Respondent: 1
+
+Interviewer: Thank you. 
+
+Where do you usually get information or tips about saving or investing?
+
+Respondent: 1
+
+Interviewer: I didn't understand your answer. Where do you usually get information or tips about saving or investing?
+
+Respondent: skip
+
+Interviewer: In the last few months, what, if anything, have you heard people say is a good way to make money?
+
+Respondent: 1
+
+Interviewer: I didn't understand your answer. In the last few months, what, if anything, have you heard people say is a good way to make money?
+
+Respondent: skip
+
+Interviewer: How often do you talk with friends or family about saving or investing: never, rarely, sometimes, or often?
+
+Respondent: go to the first question of part3
+
+Interviewer: Where do you usually get information or tips about saving or investing?
+
+Respondent: asdf
+
+Interviewer: I didn't understand your answer. Where do you usually get information or tips about saving or investing?
+
+Respondent: heard people say
+
+Interviewer: What have you heard people say is a good way to make money?
+
+Respondent: nothing
+
+Interviewer: How often do you talk with friends or family about saving or investing: never, rarely, sometimes, or often?
+
+Respondent: 1
+
+Interviewer: The allowed answers are: never, rarely, sometimes, or often. How often do you talk with friends or family about saving or investing?
+
+Respondent: 1
+
+Interviewer: The allowed answers are: never, rarely, sometimes, or often. How often do you talk with friends or family about saving or investing?
+
+Respondent: 1
+
+Interviewer: Have you seen any ads from banks offering interest on savings?
+
+Respondent: 1
+
+Interviewer: The allowed answers are yes or no. Have you seen any ads from banks offering interest on savings?
+
+Respondent: 1
+
+Interviewer: To finish, I have a few short questions about you. You can skip any of them. Are you currently a student, or are you working?
+
+Respondent: 1
+
+Interviewer: Are you currently a student, or are you working? The options are: student, working, both, or neither.
+
+Respondent: 1
+
+Interviewer: Which of the following do you currently have, if any: a savings account that you can access at any time, a savings account where your money is fixed for a set period, ETFs or investment funds, individual stocks, or cryptocurrencies? Is there anything else?
+
+Respondent: Etfs
+
+Interviewer: On a scale from 1 to 10, where 1 means 'not familiar at all' and 10 means 'very familiar', how familiar are you with topics like saving, interest rates and investing?
+
+Respondent: 22
+
+Interviewer: The scale is from 1 to 10, where 1 means 'not familiar at all' and 10 means 'very familiar'. How familiar are you with topics like saving, interest rates and investing?
+
+Respondent: 10
+
+Interviewer: Here is a summary of the answers you gave in this interview:
+
+- When you have money you don't need right away, you don't do much with it; a bit stays in your account. 
+- You never have money left over.
+- If you had money you didn't need for a few months, you didn't specify what you would do with it.
+- You estimate the interest rate you get on your bank account as 1. You did not clarify how sure you are about that.
+- You did not say where you get information or tips about saving or investing, and skipped this question.
+- In the last few months, you haven't heard people mention any good ways to make money.
+- You did not say how often you talk with friends or family about saving or investing, but did not mention such conversations take place.
+- You did not clearly indicate whether you have seen ads from banks offering interest on savings.
+- You did not clearly indicate whether you are a student, working, both, or neither.
+- You currently have ETFs.
+- On a scale from 1 to 10, you rate your familiarity with topics like saving, interest rates, and investing as 10.
+
+How well does this summary describe your answers? Please answer with a number from 1 (poorly) to 4 (very well), and feel free to add anything that is missing or wrong.
+
+Respondent: quit
+
+Interviewer: Thank you for participating in the interview, this was the last question. Many thanks for your time and help with this research project!
+
