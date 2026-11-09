@@ -1,0 +1,68 @@
+Interviewer: Hi, and thank you for taking part! In this short conversation, I'd like to learn how you handle money you don't need right away. It takes about 10 to 15 minutes. There are no right or wrong answers, and you can skip any question. Please don't share your name or other personal details. Are you ready to start?
+
+Respondent: 1
+
+Interviewer: When you have money that you don't need right away, what do you usually do with it?
+
+Respondent: 1
+
+Interviewer: If you had some money you didn't need for a few months, what would you do with it?
+
+Respondent: 1
+
+Interviewer: Now I'd like to talk about what your money earns. What interest rate do you think you currently get on the money in your bank account? A best guess is fine.
+
+Respondent: 1
+
+Interviewer: How sure are you about that: very sure, somewhat sure, or not sure at all?
+
+Respondent: 1
+
+Interviewer: Where do you usually get information or tips about saving or investing?
+
+Respondent: 1
+
+Interviewer: In the last few months, what, if anything, have you heard people say is a good way to make money?
+
+Respondent: 1
+
+Interviewer: How often do you talk with friends or family about saving or investing: never, rarely, sometimes, or often?
+
+Respondent: 1
+
+Interviewer: Have you seen any ads from banks offering interest on savings?
+
+Respondent: 1
+
+Interviewer: To finish, I have a few short questions about you. You can skip any of them. Are you currently a student, or are you working?
+
+Respondent: 1
+
+Interviewer: Which of the following do you currently have, if any: a regular savings account such as Tagesgeld, a fixed-term deposit such as Festgeld, ETFs or investment funds, individual stocks, or cryptocurrencies? Is there anything else?
+
+Respondent: 1
+
+Interviewer: On a scale from 1 to 10, where 1 means 'not familiar at all' and 10 means 'very familiar', how familiar are you with topics like saving, interest rates and investing?
+
+Respondent: 1
+
+Interviewer: Here is a summary of your answers:
+
+- When asked what you usually do with money you don't need right away, you answered with "1".
+- When asked what you would do if you had money you didn't need for a few months, you answered with "1".
+- For the current interest rate you think you get on the money in your bank account, you answered "1".
+- On how sure you are about your answer, you replied "1".
+- Where you get information or tips about saving or investing, you answered "1".
+- On what, if anything, you've heard people say is a good way to make money recently, you answered "1".
+- For how often you talk with friends or family about saving or investing, you replied "1".
+- When asked if you've seen ads from banks offering interest on savings, you answered "1".
+- When asked whether you are currently a student or working, you answered "1".
+- For which financial products you currently have (from the options given, or any others), you replied "1".
+- On how familiar you are with topics like saving, interest rates and investing (scale 1–10), you answered "1".
+
+How well does this summary describe your answers? Please answer with a number from 1 (poorly) to 4 (very well), and feel free to add anything that is missing or wrong.
+
+Respondent: 1
+
+Interviewer: Thank you for participating in the interview, this was the last question. Many thanks for your time and help with this research project!
+
